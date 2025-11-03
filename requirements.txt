@@ -1,0 +1,5 @@
+jieba
+scikit-learn
+google-generativeai
+numpy
+scipy

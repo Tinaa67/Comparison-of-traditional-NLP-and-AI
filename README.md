@@ -1,8 +1,8 @@
 GenAI作業二
 從傳統到現代文本處理方法實作與比較
-Comparison of Traditional vs. Modern NLP
+Comparison of Traditional NLP vs. Modern AI
 
-本專案旨在透過實際代碼範例，比較傳統自然語言處理（NLP）方法（TF-IDF、基於規則的分類、統計式摘要）與現代AI方法（基於 Google Gemini 模型）在中文文本分析任務上的效能和特性。
+本專案旨在透過實際代碼範例，比較傳統自然語言處理（NLP）方法（TF-IDF、基於規則的分類、統計式摘要）與現代AI方法（基於 Google Gemini 模型）在中文文本分析任務上的效能和特性
 專案涵蓋的任務如下
 1. 文本相似度： 比較 TF-IDF 餘弦相似度 (A-1) 與 AI 語義相似度(B-1)
 2. 文本分類： 比較基於規則的分類器(A-2) 與 AI 分類器（B-2)
